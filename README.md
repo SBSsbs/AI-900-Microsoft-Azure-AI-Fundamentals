@@ -25,12 +25,12 @@ Plus précisément :
 ##Examen de certification
 Les domaines d’étude de l’examen de certification liés à ce cours ont été mis à jour pour la dernière fois en avril 2022. 
 Chaque domaine d’étude a un pourcentage indiquant l’importance relative du domaine à l’examen. Plus le pourcentage est élevé, plus les questions 
-que les candidats seront susceptibles de voir dans ce domaine sont nombreuses.
-1- Décrire les charges de travail et les considérations de l’intelligence artificielle. 20 à 25 %
-2- Décrire les principes fondamentaux de l’apprentissage automatique sur Azure 25 à 30 % 
-3- Décrire les caractéristiques des charges de travail de la vision par ordinateur sur Azure. 15 à 20 %
-4- Décrire les fonctionnalités des charges de travail de traitement du langage naturel sur Azure 25 à 30 % 
-5- Décrire les charges de travail et les considérations de l’intelligence artificielle. 20 à 25 %
+que les candidats seront susceptibles de voir dans ce domaine sont nombreuses.  
+1- Décrire les charges de travail et les considérations de l’intelligence artificielle. 20 à 25 %  
+2- Décrire les principes fondamentaux de l’apprentissage automatique sur Azure 25 à 30 %  
+3- Décrire les caractéristiques des charges de travail de la vision par ordinateur sur Azure. 15 à 20 %  
+4- Décrire les fonctionnalités des charges de travail de traitement du langage naturel sur Azure 25 à 30 %   
+5- Décrire les charges de travail et les considérations de l’intelligence artificielle. 20 à 25 %  
 Les candidats doivent être en mesure d’identifier et de décrire les services IA et Machine Learning d’Azure. Des tests pratiques pour AI-900 sont disponibles 
 ici.
 
