@@ -1,4 +1,4 @@
-# Guide de préparation à la certification AI-900 : Principes de base de l’Intelligence Artificielle sur Azure : AI-900
+# AI-900 Certification Preparation Guide: Artificial Intelligence Fundamentals on Azure: AI-900
 
 ## Purpose
 
